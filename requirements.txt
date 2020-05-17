@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+PySimpleGUI
+PyQt5 == 5.14.1
+opencv-python == 4.2.0.32
+dlib == 19.19.0
+numpy == 1.18.1
+imutils == 0.5.3
+scipy == 1.4.1
